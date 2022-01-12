@@ -15,3 +15,6 @@ Security
 
 4 - Instalar o bootstrap no diretório do frontend
 yarn add bootstrap@5.1.3
+
+5 - Instalar as dependencias para as rotas
+yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2
