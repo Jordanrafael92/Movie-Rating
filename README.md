@@ -25,21 +25,21 @@ https://jordan-movierating.netlify.app/
 - Netlifly
 - Heroku
 
-1 - Clonar o repositório
-git clone git@github.com:Jordanrafael92/Movie-Rating.git
+<b>1 - Clonar o repositório</b>
+<p>git clone git@github.com:Jordanrafael92/Movie-Rating.git
 
-2 - Na pasta Frontend, fazer as seguintes instalações:
-	- Instalar o yarn: npm install --global yarn
-	- Instalar o react (depois copia os aquivos do front para esta pasta): yarn create react-app frontend --template typescript
-	- Adiciona o bootstrap: yarn add bootstrap@5.1.3
-	- Adiciona a biblioteca do React Router DOM: yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2
+<b>2 - Na pasta Frontend, fazer as seguintes instalações:</b>
+	<p>- Instalar o yarn: npm install --global yarn </p>
+	<p>- Instalar o react (depois copia os aquivos do front para esta pasta): yarn create react-app frontend --template typescript</p>
+	<p>- Adiciona o bootstrap: yarn add bootstrap@5.1.3</p>
+	<p>- Adiciona a biblioteca do React Router DOM: yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2</p>
 
 
-3 - Subir o backend
+<b>3 - Subir o backend</b>
 
-4 - Rodar o frontend e verificar se a aplicação esta comunicando com o backend
-	- No diretório frontend, executar o seguinte comando: yarn start
+<b>4 - Rodar o frontend e verificar se a aplicação esta comunicando com o backend</b>
+	<p>- No diretório frontend, executar o seguinte comando: yarn start</p>
 
-5 - A aplicação iniciará automaticamente no navegador, no endereço:
-http://localhost:3000/
+<b>5 - A aplicação iniciará automaticamente no navegador, no endereço:</b>
+<p>http://localhost:3000/</p>
 
