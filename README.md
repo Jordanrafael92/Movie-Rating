@@ -34,6 +34,7 @@ https://jordan-movierating.netlify.app/
 - Netlifly
 - Heroku
 
+### Passos para a instalação na sua máquina
 <b>1 - Clonar o repositório</b>
 <p>git clone git@github.com:Jordanrafael92/Movie-Rating.git
 
