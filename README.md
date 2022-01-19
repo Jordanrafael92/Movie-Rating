@@ -1,7 +1,16 @@
-# Movie-Rating - Projeto Spring React
+# Movie Rating - Projeto Spring React
 
 ## Link da Aplicação
 https://jordan-movierating.netlify.app/
+
+## Layout web
+
+<p align="center">
+  <img width="800" src="assets/movieRating.png">
+</p>
+<p align="center">
+  <img width="350" src="assets/avaliacao.png">
+</p>
 
 ### Configuração do Projeto
 
@@ -42,4 +51,9 @@ https://jordan-movierating.netlify.app/
 
 <b>5 - A aplicação iniciará automaticamente no navegador, no endereço:</b>
 <p>http://localhost:3000/</p>
+
+## Developer
+Jordan Silva
+
+https://www.linkedin.com/in/jordan-silva/
 
