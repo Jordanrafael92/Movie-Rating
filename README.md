@@ -1,4 +1,7 @@
-# Movie-Rating
+# Movie-Rating - Project Spring React
+
+# Application Link
+https://jordan-movierating.netlify.app/
 
 1 - criar a pasta frontend
 yarn create react-app frontend --template typescript
