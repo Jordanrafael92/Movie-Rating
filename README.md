@@ -1,24 +1,45 @@
-# Movie-Rating - Project Spring React
+# Movie-Rating - Projeto Spring React
 
 ## Link da Aplicação
 https://jordan-movierating.netlify.app/
 
 ### Configuração do Projeto
-1 - Criar a pasta frontend
-yarn create react-app frontend --template typescript
 
-2 - Rodar e verificar se o react esta funcionando
-yarn start
+#### Ferramentas Utilizadas
+- VSCode
+- Spring Tool Suite
+- Postgres / PgAdmin
+- Postman
 
-3 - Criar o projeto SpringBoot com as dependencias:
-Web
-JPA
-H2
-Postgres
-Security
+#### Dependências do Spring
+- Web
+- JPA
+- H2
+- Postgres
+- Security
 
-4 - Instalar o bootstrap no diretório do frontend
-yarn add bootstrap@5.1.3
+#### Gerenciador de dependências
+- Maven
 
-5 - Instalar as dependencias para as rotas
-yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2
+#### Hospedagem
+- Netlifly
+- Heroku
+
+1 - Clonar o repositório
+git clone git@github.com:Jordanrafael92/Movie-Rating.git
+
+2 - Na pasta Frontend, fazer as seguintes instalações:
+	- Instalar o yarn: npm install --global yarn
+	- Instalar o react (depois copia os aquivos do front para esta pasta): yarn create react-app frontend --template typescript
+	- Adiciona o bootstrap: yarn add bootstrap@5.1.3
+	- Adiciona a biblioteca do React Router DOM: yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2
+
+
+3 - Subir o backend
+
+4 - Rodar o frontend e verificar se a aplicação esta comunicando com o backend
+	- No diretório frontend, executar o seguinte comando: yarn start
+
+5 - A aplicação iniciará automaticamente no navegador, no endereço:
+http://localhost:3000/
+
