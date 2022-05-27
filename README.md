@@ -1,7 +1,8 @@
 # Movie Rating - Projeto Spring React
 
 ## Link da Aplicação
-https://jordan-movierating.netlify.app/
+<p>https://jordan-movierating.netlify.app/</p>
+<p>Obs: o servidor fica em stand by quando não é utilizado por mais de 30 minutos, levará cerca de 40 segundos para carregar a aplicação.</p>
 
 ## Layout web
 
